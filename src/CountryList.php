@@ -293,6 +293,6 @@ class CountryList {
     'ES' => 'Spain',
     'SE' => 'Sweden',
     'CH' => 'Switzerland',
-    'GB' => 'United Kingdom',;
+    'GB' => 'United Kingdom'];
   }
 }
