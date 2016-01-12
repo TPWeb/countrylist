@@ -13,3 +13,8 @@ TPWeb\CountryList\CountryListServiceProvider::class,
 'aliases' => [
 'CountryList' => TPWeb\VestaCP\CountryListFacade::class,
 ]
+
+Usage:
+
+\TPWeb\CountryList\CountryList::countryArray()
+\TPWeb\CountryList\CountryList::europeCountryArray()
