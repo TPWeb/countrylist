@@ -1,0 +1,23 @@
+{
+  "name": "tpweb/countrylist",
+  "version": "0.1",
+  "description": "PHP Library with full country list",
+  "keywords": ["country", "country list"],
+  "homepage": "http://www.tpweb.org/my-projects/php-countrylist/",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tjebbe Lievens",
+      "homepage": "http://www.tpweb.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-0": {
+      "TPWeb\\CountryList\\": "src/"
+    }
+  }
+}
